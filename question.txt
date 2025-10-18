@@ -23,165 +23,165 @@ Arrays (20 questions)
 20. Implement a custom filter function that takes an array and a callback, returning a new array containing elements where the callback returns true.
 
 Strings (20 detailed questions)
-Write a function that counts and returns the number of vowels and consonants in a given string.
+1. Write a function that counts and returns the number of vowels and consonants in a given string.
 
-Check if a given string is a palindrome (reads the same forwards and backwards).
+2. Check if a given string is a palindrome (reads the same forwards and backwards).
 
-Reverse the order of words in a sentence, preserving the words themselves.
+3. Reverse the order of words in a sentence, preserving the words themselves.
 
-Find the first non-repeating character in a string and return it.
+4. Find the first non-repeating character in a string and return it.
 
-Remove all duplicate characters from a string, preserving the order of first occurrence.
+5. Remove all duplicate characters from a string, preserving the order of first occurrence.
 
-Check if two strings are anagrams of each other (contain the same characters with the same frequency).
+6. Check if two strings are anagrams of each other (contain the same characters with the same frequency).
 
-Convert a string to title case by capitalizing the first letter of each word.
+7. Convert a string to title case by capitalizing the first letter of each word.
 
-Count the number of words in a string.
+8. Count the number of words in a string.
 
-Replace all spaces in a string with a specified character like underscore (_).
+9. Replace all spaces in a string with a specified character like underscore (_).
 
-Check if a string contains only numeric digits.
+10. Check if a string contains only numeric digits.
 
-Generate and return all possible permutations of a given string.
+11. Generate and return all possible permutations of a given string.
 
-Find the longest substring without repeating characters in a string.
+12. Find the longest substring without repeating characters in a string.
 
-Convert a string to camelCase format.
+13. Convert a string to camelCase format.
 
-Validate whether a string is a valid email address format.
+14. Validate whether a string is a valid email address format.
 
-Extract and return all numeric characters from a string as a new string.
+15. Extract and return all numeric characters from a string as a new string.
 
-Reverse each word of a sentence independently without changing the word order.
+16. Reverse each word of a sentence independently without changing the word order.
 
-Compress a string by replacing sequences of repeated characters with the character followed by its count (e.g., "aaabb" becomes "a3b2").
+17. Compress a string by replacing sequences of repeated characters with the character followed by its count (e.g., "aaabb" becomes "a3b2").
 
-Remove all vowels from a string.
+18. Remove all vowels from a string.
 
-Count the occurrence of each character in a string and return the result as an associative array.
+19 Count the occurrence of each character in a string and return the result as an associative array.
 
-Check if a string is a valid URL.
+20. Check if a string is a valid URL.
 
 Numbers & Math (20 detailed questions)
-Create a function to determine if a number is prime.
+1. Create a function to determine if a number is prime.
 
-Write a function that calculates the factorial of a given positive integer.
+2. Write a function that calculates the factorial of a given positive integer.
 
-Generate an array containing the Fibonacci sequence up to a given number.
+3. Generate an array containing the Fibonacci sequence up to a given number.
 
-Find the greatest common divisor (GCD) of two integers using the Euclidean algorithm.
+4. Find the greatest common divisor (GCD) of two integers using the Euclidean algorithm.
 
-Calculate the least common multiple (LCM) of two integers.
+5. Calculate the least common multiple (LCM) of two integers.
 
-Check if a number is an Armstrong number (the sum of its digits raised to the power of the number of digits equals the number).
+6. Check if a number is an Armstrong number (the sum of its digits raised to the power of the number of digits equals the number).
 
-Reverse the digits of an integer and return the reversed number.
+7. Reverse the digits of an integer and return the reversed number.
 
-Determine if a number is a perfect square.
+8. Determine if a number is a perfect square.
 
-Calculate the sum of the digits of a number.
+9. Calculate the sum of the digits of a number.
 
-Check if a number reads the same forward and backward (palindrome).
+10. Check if a number reads the same forward and backward (palindrome).
 
-Convert a decimal number to its binary representation without using built-in conversion functions.
+11. Convert a decimal number to its binary representation without using built-in conversion functions.
 
-Convert a binary number (string or integer) back to decimal.
+12. Convert a binary number (string or integer) back to decimal.
 
-Write a function to calculate the power of a number raised to an exponent without using PHP’s pow() function.
+13. Write a function to calculate the power of a number raised to an exponent without using PHP’s pow() function.
 
-Implement Newton’s method to calculate the square root of a non-negative number with a specified precision.
+14. Implement Newton’s method to calculate the square root of a non-negative number with a specified precision.
 
-Calculate the sum of all prime numbers up to a given number n.
+15. Calculate the sum of all prime numbers up to a given number n.
 
-Determine whether a number is a perfect number (equal to the sum of its proper divisors).
+16. Determine whether a number is a perfect number (equal to the sum of its proper divisors).
 
-Find the integer part (floor) of the logarithm base 2 of a number.
+17. Find the integer part (floor) of the logarithm base 2 of a number.
 
-Calculate the factorial of a number using recursion.
+18. Calculate the factorial of a number using recursion.
 
-Return all factors (divisors) of a given integer.
+19. Return all factors (divisors) of a given integer.
 
-Find the difference between the sum of even digits and the sum of odd digits in a number.
+20. Find the difference between the sum of even digits and the sum of odd digits in a number.
 
 Sorting and Searching (20 detailed questions)
-Implement Bubble Sort to sort an array of numbers in ascending order.
+1. Implement Bubble Sort to sort an array of numbers in ascending order.
 
-Implement Selection Sort for an array without using built-in sort functions.
+2. Implement Selection Sort for an array without using built-in sort functions.
 
-Implement Insertion Sort on an array and return the sorted array.
+3. Implement Insertion Sort on an array and return the sorted array.
 
-Implement Merge Sort to sort an array of integers.
+4. Implement Merge Sort to sort an array of integers.
 
-Implement Quick Sort algorithm to sort a given array.
+5. Implement Quick Sort algorithm to sort a given array.
 
-Implement linear search to find the index of an element in an unsorted array.
+6. Implement linear search to find the index of an element in an unsorted array.
 
-Using binary search, find the index of a target element in a sorted array.
+7. Using binary search, find the index of a target element in a sorted array.
 
-Sort an array of strings alphabetically.
+8. Sort an array of strings alphabetically.
 
-Find the kth smallest element in an unsorted array.
+9. Find the kth smallest element in an unsorted array.
 
-Find the kth largest element in an unsorted array.
+10. Find the kth largest element in an unsorted array.
 
-Sort an associative array by its keys.
+11. Sort an associative array by its keys.
 
-Sort an associative array by its values.
+12. Sort an associative array by its values.
 
-Write a function to check if an array is already sorted in ascending order.
+13. Write a function to check if an array is already sorted in ascending order.
 
-Given a sorted array, find all duplicate elements.
+14. Given a sorted array, find all duplicate elements.
 
-Identify the majority element in an array (appears more than n/2 times).
+15. Identify the majority element in an array (appears more than n/2 times).
 
-Sort an array of integers based on the sum of their digits.
+16. Sort an array of integers based on the sum of their digits.
 
-Implement Counting Sort for numbers in the range 0 to 100.
+17. Implement Counting Sort for numbers in the range 0 to 100.
 
-Search for an element in a rotated sorted array.
+18. Search for an element in a rotated sorted array.
 
-Sort an array using Heap Sort.
+19. Sort an array using Heap Sort.
 
-Find the median of two sorted arrays of equal size.
+20. Find the median of two sorted arrays of equal size.
 
 Algorithms & Logic (20 detailed questions)
-Check if a string is a palindrome without using built-in reverse functions.
+1. Check if a string is a palindrome without using built-in reverse functions.
 
-Print all prime numbers between two given numbers.
+2. Print all prime numbers between two given numbers.
 
-Generate all subsets (power set) of a given set represented as an array.
+3. Generate all subsets (power set) of a given set represented as an array.
 
-Convert a binary number string to a decimal number without using built-ins.
+4. Convert a binary number string to a decimal number without using built-ins.
 
-Calculate the power set of a string’s characters.
+5. Calculate the power set of a string’s characters.
 
-Check if one array is a rotation of another array.
+6. Check if one array is a rotation of another array.
 
-Find if an array contains a subarray whose sum is zero.
+7. Find if an array contains a subarray whose sum is zero.
 
-Solve the Tower of Hanoi puzzle for n disks recursively and print steps.
+8. Solve the Tower of Hanoi puzzle for n disks recursively and print steps.
 
-Find the longest common prefix string among an array of strings.
+9. Find the longest common prefix string among an array of strings.
 
-Implement a simple calculator to perform addition, subtraction, multiplication, and division based on user input.
+10. Implement a simple calculator to perform addition, subtraction, multiplication, and division based on user input.
 
-Check if a year is a leap year.
+11. Check if a year is a leap year.
 
-Remove all spaces from a string without using built-in replacement or trim functions.
+12. Remove all spaces from a string without using built-in replacement or trim functions.
 
-Validate if a string has balanced parentheses (every opening has a matching closing).
+13. Validate if a string has balanced parentheses (every opening has a matching closing).
 
-Find all pairs in an array where the difference between the numbers equals a specified target.
+14. Find all pairs in an array where the difference between the numbers equals a specified target.
 
-Convert a Roman numeral string to its integer value.
+15. Convert a Roman numeral string to its integer value.
 
-Find the first unique number in an array that appears only once.
+16. Find the first unique number in an array that appears only once.
 
-Implement the Sieve of Eratosthenes to list all primes up to a given number.
+17. Implement the Sieve of Eratosthenes to list all primes up to a given number.
 
-Count the number of set bits (1s) in the binary representation of an integer.
+18. Count the number of set bits (1s) in the binary representation of an integer.
 
-Reverse a linked list represented as a PHP array (simulate singly linked list pointers).
+19. Reverse a linked list represented as a PHP array (simulate singly linked list pointers).
 
-Detect if an array contains a cycle (using indexes to simulate pointers).
+20. Detect if an array contains a cycle (using indexes to simulate pointers).
